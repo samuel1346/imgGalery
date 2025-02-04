@@ -1,6 +1,6 @@
 import './App.css'
 import GaleryComponents from './Components/GaleryComponents/GaleryComponents'
-import PresentationComponent from './Components/presentationComponents/presentationComponent'
+import PresentationComponent from './Components/presentationComponents/PresentationComponent'
 
 function App() {
 
